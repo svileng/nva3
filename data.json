@@ -1,0 +1,2115 @@
+[
+  {
+    "name": "AlertMe",
+    "moneyRaised": "$28M",
+    "category": "cleantech",
+    "tags": [
+      ""
+    ],
+    "fundingRounds": [
+      {
+        "month": 6,
+        "year": 2009,
+        "money": 13000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Good Energies",
+            "type": "financial_org"
+          },
+          {
+            "name": "Index Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "VantagePoint Capital Partners",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 10,
+        "year": 2010,
+        "money": 15000000,
+        "currency": "GBP",
+        "investors": [
+          {
+            "name": "Good Energies",
+            "type": "financial_org"
+          },
+          {
+            "name": "Index Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "SET Venture Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "VantagePoint Capital Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "British Gas",
+            "type": "company"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "HouseTrip",
+    "moneyRaised": "$59.7M",
+    "category": "travel",
+    "tags": [
+      "travel",
+      "holiday-rentals",
+      "holidays",
+      "rentals",
+      "accommodation",
+      "trip",
+      "apartments",
+      "villas",
+      "private",
+      "online",
+      "tech",
+      "startup"
+    ],
+    "fundingRounds": [
+      {
+        "month": 4,
+        "year": 2011,
+        "money": 2700000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Index Ventures",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 11,
+        "year": 2011,
+        "money": 17000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Balderton Capital",
+            "type": "financial_org"
+          },
+          {
+            "name": "Index Ventures",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 10,
+        "year": 2012,
+        "money": 40000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Accel Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "Index Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "Balderton Capital",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "PeoplePerHour.com",
+    "moneyRaised": "£7.88M",
+    "category": "web",
+    "tags": [
+      "freelance",
+      "outsource",
+      "employment",
+      "hire",
+      "manage"
+    ],
+    "fundingRounds": [
+      {
+        "month": 1,
+        "year": 2009,
+        "money": 425000,
+        "currency": "GBP",
+        "investors": []
+      },
+      {
+        "month": 2,
+        "year": 2010,
+        "money": 450000,
+        "currency": "GBP",
+        "investors": [
+          {
+            "name": "Index Ventures",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 12,
+        "year": 2010,
+        "money": 3800000,
+        "currency": "GBP",
+        "investors": [
+          {
+            "name": "Index Ventures",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 10,
+        "year": 2012,
+        "money": 3200000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Index Ventures",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mind Candy",
+    "moneyRaised": "$10M",
+    "category": "games_video",
+    "tags": [
+      ""
+    ],
+    "fundingRounds": [
+      {
+        "month": 5,
+        "year": 2008,
+        "money": 10000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Index Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "Accel Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "Spark Ventures",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wonga",
+    "moneyRaised": "$101M",
+    "category": "web",
+    "tags": [
+      "lending",
+      "risk",
+      "credit",
+      "loans",
+      "finance",
+      "financial-services",
+      "cash-advances"
+    ],
+    "fundingRounds": [
+      {
+        "month": 6,
+        "year": 2007,
+        "money": 6000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Balderton Capital",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 6,
+        "year": 2009,
+        "money": 22250000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Accel Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "Balderton Capital",
+            "type": "financial_org"
+          },
+          {
+            "name": "Greylock Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "Dawn Capital",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 2,
+        "year": 2011,
+        "money": 73000000,
+        "currency": "GBP",
+        "investors": [
+          {
+            "name": "Oak Investment Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "Meritech Capital Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "Wellcome Trust",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Badoo",
+    "moneyRaised": "C$30M",
+    "category": "web",
+    "tags": [
+      "socialnetworking",
+      "international",
+      "mediasharing",
+      "videouploads"
+    ],
+    "fundingRounds": [
+      {
+        "month": 1,
+        "year": 2008,
+        "money": 30000000,
+        "currency": "CAD",
+        "investors": [
+          {
+            "name": "FINAM Global",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Songkick",
+    "moneyRaised": "$16.6M",
+    "category": "music",
+    "tags": [
+      "music",
+      "concerttickets",
+      "concert",
+      "musicrecommendation"
+    ],
+    "fundingRounds": [
+      {
+        "month": 6,
+        "year": 2007,
+        "money": 15000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Y Combinator",
+            "type": "company"
+          }
+        ]
+      },
+      {
+        "month": 3,
+        "year": 2008,
+        "money": 1100000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "SoftTech VC",
+            "type": "financial_org"
+          },
+          {
+            "name": "The Accelerator Group",
+            "type": "financial_org"
+          },
+          {
+            "name": "betaworks",
+            "type": "company"
+          }
+        ]
+      },
+      {
+        "month": 12,
+        "year": 2008,
+        "money": 3500000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Index Ventures",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 2,
+        "year": 2011,
+        "money": 2000000,
+        "currency": "USD",
+        "investors": []
+      },
+      {
+        "month": 3,
+        "year": 2012,
+        "money": 10000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Sequoia Capital",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Funding Circle",
+    "moneyRaised": "$56.6M",
+    "category": "finance",
+    "tags": [
+      "financial-services",
+      "peer-to-peer-lending",
+      "p2p-lending",
+      "social-lending",
+      "zopa"
+    ],
+    "fundingRounds": [
+      {
+        "month": 2,
+        "year": 2010,
+        "money": 1100000,
+        "currency": "USD",
+        "investors": []
+      },
+      {
+        "month": 4,
+        "year": 2011,
+        "money": 2500000,
+        "currency": "GBP",
+        "investors": [
+          {
+            "name": "Index Ventures",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 4,
+        "year": 2012,
+        "money": 16000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Index Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "Union Square Ventures",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 10,
+        "year": 2013,
+        "money": 37000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Accel Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "Union Square Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "Ribbit Capital",
+            "type": "financial_org"
+          },
+          {
+            "name": "Index Ventures",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Skimlinks",
+    "moneyRaised": "$8.52M",
+    "category": "advertising",
+    "tags": [
+      "affiliate-marketing-aggregator",
+      "online-monetization",
+      "automated-affiliate-marketing"
+    ],
+    "fundingRounds": [
+      {
+        "month": 2,
+        "year": 2009,
+        "money": 1020000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Sussex Place Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "NESTA Investments",
+            "type": "financial_org"
+          },
+          {
+            "name": "The Accelerator Group",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 12,
+        "year": 2009,
+        "money": 1500000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Sussex Place Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "NESTA Investments",
+            "type": "financial_org"
+          },
+          {
+            "name": "The Accelerator Group",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 1,
+        "year": 2008,
+        "money": null,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Alex Hoye",
+            "type": "person"
+          }
+        ]
+      },
+      {
+        "month": 11,
+        "year": 2011,
+        "money": 4500000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Bertelsmann Digital Media Investments",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 4,
+        "year": 2013,
+        "money": null,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Greycroft Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "Hiro Maeda",
+            "type": "person"
+          },
+          {
+            "name": "Ryota Matsuzaki",
+            "type": "person"
+          },
+          {
+            "name": "Forum Foundry",
+            "type": "company"
+          }
+        ]
+      },
+      {
+        "month": 3,
+        "year": 2014,
+        "money": 1500000,
+        "currency": "GBP",
+        "investors": [
+          {
+            "name": "Silicon Valley Bank",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "MOO.COM",
+    "moneyRaised": "$5M",
+    "category": "web",
+    "tags": [
+      "minicards",
+      "notecards",
+      "stickers",
+      "customization",
+      "flickr",
+      "photos",
+      "business-cards",
+      "post-cards"
+    ],
+    "fundingRounds": [
+      {
+        "month": 4,
+        "year": 2006,
+        "money": 5000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Atlas Venture",
+            "type": "financial_org"
+          },
+          {
+            "name": "Index Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "The Accelerator Group",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GoCardless",
+    "moneyRaised": "$11.8M",
+    "category": "ecommerce",
+    "tags": [
+      "internet-banking",
+      "merchants",
+      "customers"
+    ],
+    "fundingRounds": [
+      {
+        "month": 2,
+        "year": 2012,
+        "money": 1500000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Accel Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "Passion Capital",
+            "type": "financial_org"
+          },
+          {
+            "name": "SV Angel",
+            "type": "financial_org"
+          },
+          {
+            "name": "Start Fund",
+            "type": "financial_org"
+          },
+          {
+            "name": "ACE & Company",
+            "type": "financial_org"
+          },
+          {
+            "name": "Y Combinator",
+            "type": "company"
+          }
+        ]
+      },
+      {
+        "month": 4,
+        "year": 2013,
+        "money": 3300000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Accel Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "Passion Capital",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 1,
+        "year": 2014,
+        "money": 7000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Balderton Capital",
+            "type": "financial_org"
+          },
+          {
+            "name": "Accel Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "Passion Capital",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "MakieLab",
+    "moneyRaised": "$1.55M",
+    "category": "games_video",
+    "tags": [
+      "3dprinting",
+      "toys",
+      "social-games",
+      "videogames",
+      "virtual-goods"
+    ],
+    "fundingRounds": [
+      {
+        "month": 8,
+        "year": 2011,
+        "money": 150000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Technology Strategy Board",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 6,
+        "year": 2012,
+        "money": 1400000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Lifeline Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "Sunstone Capital",
+            "type": "financial_org"
+          },
+          {
+            "name": "Matthew Wiggins",
+            "type": "person"
+          },
+          {
+            "name": "Daniel James",
+            "type": "person"
+          },
+          {
+            "name": "Cedric Littardi",
+            "type": "person"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Shutl",
+    "moneyRaised": "£7.66M",
+    "category": "ecommerce",
+    "tags": [
+      "shutl",
+      "e-commerce",
+      "logistics",
+      "retail",
+      "multi-channel",
+      "saas",
+      "cloud-courier",
+      "web-service",
+      "delivery-platform",
+      "ceo",
+      "delivery",
+      "entrepreneur",
+      "british-entrepreneur",
+      "london",
+      "dartmouth",
+      "courier",
+      "british",
+      "swiss",
+      "bermudian",
+      "switzerland",
+      "bermuda",
+      "shoreditch",
+      "ecourier"
+    ],
+    "fundingRounds": [
+      {
+        "month": 1,
+        "year": 2008,
+        "money": 110000,
+        "currency": "GBP",
+        "investors": [
+          {
+            "name": "Tom Allason",
+            "type": "person"
+          },
+          {
+            "name": "Simon Murdoch",
+            "type": "person"
+          },
+          {
+            "name": "Chris Ohlund",
+            "type": "person"
+          },
+          {
+            "name": "Steve Romney",
+            "type": "person"
+          },
+          {
+            "name": "Guy Westlake",
+            "type": "person"
+          },
+          {
+            "name": "Kevin Helton",
+            "type": "person"
+          }
+        ]
+      },
+      {
+        "month": 10,
+        "year": 2009,
+        "money": 500000,
+        "currency": "GBP",
+        "investors": [
+          {
+            "name": "Simon Murdoch",
+            "type": "person"
+          },
+          {
+            "name": "Paul Birch",
+            "type": "person"
+          },
+          {
+            "name": "Mark Zaleski",
+            "type": "person"
+          },
+          {
+            "name": "Robert Dighero",
+            "type": "person"
+          }
+        ]
+      },
+      {
+        "month": 8,
+        "year": 2010,
+        "money": 400000,
+        "currency": "GBP",
+        "investors": [
+          {
+            "name": "Tom Allason",
+            "type": "person"
+          },
+          {
+            "name": "Simon Murdoch",
+            "type": "person"
+          },
+          {
+            "name": "Chris Ohlund",
+            "type": "person"
+          },
+          {
+            "name": "Guy Westlake",
+            "type": "person"
+          },
+          {
+            "name": "Hummingbird Ventures",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 4,
+        "year": 2011,
+        "money": 650000,
+        "currency": "GBP",
+        "investors": [
+          {
+            "name": "Paul Birch",
+            "type": "person"
+          },
+          {
+            "name": "Hummingbird Ventures",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 8,
+        "year": 2012,
+        "money": 2000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "UPS Strategic Enterprise Fund",
+            "type": "financial_org"
+          },
+          {
+            "name": "Hummingbird Ventures",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 10,
+        "year": 2012,
+        "money": 4000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "UPS Strategic Enterprise Fund",
+            "type": "financial_org"
+          },
+          {
+            "name": "e.ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "Notion Capital",
+            "type": "financial_org"
+          },
+          {
+            "name": "Hummingbird Ventures",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Qubit",
+    "moneyRaised": "$8.85M",
+    "category": "analytics",
+    "tags": [
+      "online",
+      "advertising",
+      "big-data",
+      "data",
+      "data-mining",
+      "ecommerce",
+      "publishing",
+      "analytics",
+      "web-analytics",
+      "marketing"
+    ],
+    "fundingRounds": [
+      {
+        "month": 10,
+        "year": 2010,
+        "money": 1350000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Westminster Growth Capital",
+            "type": "company"
+          }
+        ]
+      },
+      {
+        "month": 12,
+        "year": 2012,
+        "money": 7500000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Balderton Capital",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Adzuna",
+    "moneyRaised": "£1.8M",
+    "category": "search",
+    "tags": [
+      "jobs",
+      "careers",
+      "classifieds",
+      "job-search",
+      "vertical-search-engine"
+    ],
+    "fundingRounds": [
+      {
+        "month": 7,
+        "year": 2011,
+        "money": 300000,
+        "currency": "GBP",
+        "investors": [
+          {
+            "name": "Passion Capital",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 1,
+        "year": 2012,
+        "money": 500000,
+        "currency": "GBP",
+        "investors": [
+          {
+            "name": "Index Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "The Accelerator Group",
+            "type": "financial_org"
+          },
+          {
+            "name": "Passion Capital",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 4,
+        "year": 2013,
+        "money": 1000000,
+        "currency": "GBP",
+        "investors": [
+          {
+            "name": "Index Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "The Accelerator Group",
+            "type": "financial_org"
+          },
+          {
+            "name": "Passion Capital",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "DueDil",
+    "moneyRaised": "$22M",
+    "category": "analytics",
+    "tags": [
+      "due-diligence",
+      "business-information",
+      "company-search"
+    ],
+    "fundingRounds": [
+      {
+        "month": 11,
+        "year": 2011,
+        "money": null,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Jonty Hurwitz",
+            "type": "person"
+          }
+        ]
+      },
+      {
+        "month": 8,
+        "year": 2012,
+        "money": null,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Jonty Hurwitz",
+            "type": "person"
+          },
+          {
+            "name": "Federico Pirzio-Biroli",
+            "type": "person"
+          },
+          {
+            "name": "Sherry Coutu",
+            "type": "person"
+          },
+          {
+            "name": "Passion Capital",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 4,
+        "year": 2013,
+        "money": 5000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Notion Capital",
+            "type": "financial_org"
+          },
+          {
+            "name": "Oak Investment Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "Passion Capital",
+            "type": "financial_org"
+          },
+          {
+            "name": "Shakil Khan",
+            "type": "person"
+          }
+        ]
+      },
+      {
+        "month": 6,
+        "year": 2011,
+        "money": null,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Passion Capital",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 3,
+        "year": 2014,
+        "money": 17000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Oak Investment Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "Passion Capital",
+            "type": "financial_org"
+          },
+          {
+            "name": "Notion Capital",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "TransferWise",
+    "moneyRaised": "$7.35M",
+    "category": "finance",
+    "tags": [
+      "finance",
+      "currency",
+      "transfer",
+      "fintech",
+      "fx"
+    ],
+    "fundingRounds": [
+      {
+        "month": 4,
+        "year": 2012,
+        "money": 1300000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Index Ventures",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 5,
+        "year": 2013,
+        "money": 6000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Valar Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "SV Angel",
+            "type": "financial_org"
+          },
+          {
+            "name": "IA Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "Index Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "Kima Ventures",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 8,
+        "year": 2011,
+        "money": 50000,
+        "currency": "EUR",
+        "investors": [
+          {
+            "name": "Seedcamp",
+            "type": "company"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hailo",
+    "moneyRaised": "$68.1M",
+    "category": "mobile",
+    "tags": [
+      "taxi",
+      "cab",
+      "e-hail",
+      "ehail",
+      "transportation",
+      "real-time",
+      "location-based"
+    ],
+    "fundingRounds": [
+      {
+        "month": 4,
+        "year": 2011,
+        "money": 3000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Wellington Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "Atomico",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 3,
+        "year": 2012,
+        "money": 17000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Accel Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "Atomico",
+            "type": "financial_org"
+          },
+          {
+            "name": "Wellington Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "Red Swan",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 12,
+        "year": 2012,
+        "money": 30600000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Union Square Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "KDDI",
+            "type": "company"
+          },
+          {
+            "name": "Richard Branson",
+            "type": "person"
+          },
+          {
+            "name": "Phenomen Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "Accel Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "Wellington Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "Atomico",
+            "type": "financial_org"
+          },
+          {
+            "name": "Felicis Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "Red Swan",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 1,
+        "year": 2014,
+        "money": 17500000,
+        "currency": "GBP",
+        "investors": []
+      }
+    ]
+  },
+  {
+    "name": "Graze",
+    "moneyRaised": "$1.4M",
+    "category": "ecommerce",
+    "tags": [
+      "food",
+      "uk",
+      "natural-food"
+    ],
+    "fundingRounds": [
+      {
+        "month": 7,
+        "year": 2009,
+        "money": 1400000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Octopus",
+            "type": "financial_org"
+          },
+          {
+            "name": "DFJ Esprit",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gidsy",
+    "moneyRaised": "$1.2M",
+    "category": "travel",
+    "tags": [
+      "marketplace",
+      "berlin",
+      "tourism",
+      "ecommerce",
+      "collaborative-consumption"
+    ],
+    "fundingRounds": [
+      {
+        "month": 1,
+        "year": 2012,
+        "money": 1200000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Sunstone Capital",
+            "type": "financial_org"
+          },
+          {
+            "name": "Index Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "Peter Read",
+            "type": "person"
+          },
+          {
+            "name": "Ashton Kutcher",
+            "type": "person"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "EyeEm",
+    "moneyRaised": "$6M",
+    "category": "photo_video",
+    "tags": [
+      "photo-sharing",
+      "android",
+      "iphone",
+      "photo-discovery",
+      "apps",
+      "visual-search",
+      "smart-albums",
+      "recommendations"
+    ],
+    "fundingRounds": [
+      {
+        "month": 8,
+        "year": 2011,
+        "money": null,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Passion Capital",
+            "type": "financial_org"
+          },
+          {
+            "name": "Wellington Partners",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 7,
+        "year": 2013,
+        "money": 6000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Earlybird Venture Capital",
+            "type": "financial_org"
+          },
+          {
+            "name": "Wellington Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "Passion Capital",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Delivery Hero",
+    "moneyRaised": "€208M",
+    "category": "hospitality",
+    "tags": [
+      ""
+    ],
+    "fundingRounds": [
+      {
+        "month": 3,
+        "year": 2011,
+        "money": 4000000,
+        "currency": "EUR",
+        "investors": [
+          {
+            "name": "Team Europe",
+            "type": "financial_org"
+          },
+          {
+            "name": "Holtzbrinck",
+            "type": "company"
+          },
+          {
+            "name": "Tengelmann Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "Point Nine",
+            "type": "company"
+          }
+        ]
+      },
+      {
+        "month": 10,
+        "year": 2011,
+        "money": 11000000,
+        "currency": "EUR",
+        "investors": [
+          {
+            "name": "Kite Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "Team Europe",
+            "type": "financial_org"
+          },
+          {
+            "name": "WestTech Ventures",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 3,
+        "year": 2012,
+        "money": 25000000,
+        "currency": "EUR",
+        "investors": [
+          {
+            "name": "Kite Ventures",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 8,
+        "year": 2012,
+        "money": 50000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Kite Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "Kreos",
+            "type": "company"
+          }
+        ]
+      },
+      {
+        "month": 7,
+        "year": 2013,
+        "money": 30000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Phenomen Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "Team Europe",
+            "type": "financial_org"
+          },
+          {
+            "name": "Kite Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "Ru-net",
+            "type": "financial_org"
+          },
+          {
+            "name": "Tengelmann Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "Holtzbrinck Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "Point Nine Capital",
+            "type": "financial_org"
+          },
+          {
+            "name": "Kreos Capital",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 1,
+        "year": 2014,
+        "money": 88000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Insight Venture Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "German Startups Group",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Amen.",
+    "moneyRaised": "$3M",
+    "category": "mobile",
+    "tags": [
+      ""
+    ],
+    "fundingRounds": [
+      {
+        "month": 4,
+        "year": 2011,
+        "money": 2000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Index Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "A-Grade Investments",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 3,
+        "year": 2012,
+        "money": 1000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Sunstone Capital",
+            "type": "financial_org"
+          },
+          {
+            "name": "Slow Ventures",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "9flats",
+    "moneyRaised": "$0",
+    "category": "travel",
+    "fundingRounds": [
+      {
+        "month": 1,
+        "year": 2012,
+        "money": null,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "T-Venture",
+            "type": "financial_org"
+          },
+          {
+            "name": "Redpoint Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "e.ventures",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "txtr",
+    "moneyRaised": "$0",
+    "category": "hardware",
+    "tags": [
+      "document-management",
+      "ebooks",
+      "community",
+      "ebook-sharing",
+      "ebook-reader",
+      "mobile-reading"
+    ],
+    "fundingRounds": [
+      {
+        "month": 4,
+        "year": 2008,
+        "money": null,
+        "currency": null,
+        "investors": [
+          {
+            "name": "Christophe F. Maire",
+            "type": "person"
+          }
+        ]
+      },
+      {
+        "month": 5,
+        "year": 2011,
+        "money": null,
+        "currency": null,
+        "investors": [
+          {
+            "name": "3M New Ventures",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ResearchGate",
+    "moneyRaised": "$35M",
+    "category": "social",
+    "tags": [
+      "academia",
+      "research",
+      "social-network",
+      "scientific-network",
+      "research-blog",
+      "research-jobs"
+    ],
+    "fundingRounds": [
+      {
+        "month": 9,
+        "year": 2010,
+        "money": null,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Benchmark",
+            "type": "financial_org"
+          },
+          {
+            "name": "Accel Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "Simon Levene",
+            "type": "person"
+          },
+          {
+            "name": "Michael Birch",
+            "type": "person"
+          },
+          {
+            "name": "Joachim Schoss",
+            "type": "person"
+          },
+          {
+            "name": "Martin Sinner",
+            "type": "person"
+          },
+          {
+            "name": "Ulrich Essmann",
+            "type": "person"
+          },
+          {
+            "name": "Christian Vollmann",
+            "type": "person"
+          },
+          {
+            "name": "Rolf Christof Dienst",
+            "type": "person"
+          }
+        ]
+      },
+      {
+        "month": 2,
+        "year": 2012,
+        "money": null,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Founders Fund",
+            "type": "financial_org"
+          },
+          {
+            "name": "Benchmark",
+            "type": "financial_org"
+          },
+          {
+            "name": "Accel Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "Michael Birch",
+            "type": "person"
+          },
+          {
+            "name": "David Sacks",
+            "type": "person"
+          },
+          {
+            "name": "Luke Nosek",
+            "type": "person"
+          }
+        ]
+      },
+      {
+        "month": 6,
+        "year": 2013,
+        "money": 35000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Bill Gates",
+            "type": "person"
+          },
+          {
+            "name": "Tenaya Capital",
+            "type": "financial_org"
+          },
+          {
+            "name": "Dragoneer Investment Group",
+            "type": "financial_org"
+          },
+          {
+            "name": "Thrive Capital",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SoundCloud",
+    "moneyRaised": "€123M",
+    "category": "music",
+    "tags": [
+      "sounds",
+      "audio-sharing",
+      "music",
+      "artists",
+      "bands",
+      "labels"
+    ],
+    "fundingRounds": [
+      {
+        "month": 4,
+        "year": 2009,
+        "money": 2500000,
+        "currency": "EUR",
+        "investors": [
+          {
+            "name": "Doughty Hanson Technology Ventures",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 1,
+        "year": 2011,
+        "money": 10000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Union Square Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "Index Ventures",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 1,
+        "year": 2012,
+        "money": 50000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Kleiner Perkins Caufield & Byers",
+            "type": "financial_org"
+          },
+          {
+            "name": "GGV Capital",
+            "type": "financial_org"
+          },
+          {
+            "name": "Eniac Ventures",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 1,
+        "year": 2014,
+        "money": 60000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "The Chernin Group",
+            "type": "financial_org"
+          },
+          {
+            "name": "Institutional Venture Partners",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GetYourGuide",
+    "moneyRaised": "$20.5M",
+    "category": "travel",
+    "tags": [
+      "online-travel",
+      "web-2-0",
+      "tour-guide",
+      "travel",
+      "travelers",
+      "tours",
+      "marketplace",
+      "eth-zurich"
+    ],
+    "fundingRounds": [
+      {
+        "month": 3,
+        "year": 2012,
+        "money": 2000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "ZKB Start-up Finance",
+            "type": "financial_org"
+          },
+          {
+            "name": "PROfounders",
+            "type": "company"
+          },
+          {
+            "name": "Christian Saller",
+            "type": "person"
+          },
+          {
+            "name": "Wolfgang Heigl",
+            "type": "person"
+          },
+          {
+            "name": "Lars Jankowfsky",
+            "type": "person"
+          }
+        ]
+      },
+      {
+        "month": 1,
+        "year": 2013,
+        "money": 14000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Spark Capital",
+            "type": "financial_org"
+          },
+          {
+            "name": "PROfounders Capital",
+            "type": "financial_org"
+          },
+          {
+            "name": "Highland Capital Partners",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 1,
+        "year": 2014,
+        "money": 4500000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Kees Koolen",
+            "type": "person"
+          },
+          {
+            "name": "Sunstone Capital",
+            "type": "financial_org"
+          },
+          {
+            "name": "Fritz Demopoulos",
+            "type": "person"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "THE Football App",
+    "moneyRaised": "€17M",
+    "category": "mobile",
+    "tags": [
+      ""
+    ],
+    "fundingRounds": [
+      {
+        "month": 4,
+        "year": 2013,
+        "money": 10000000,
+        "currency": "EUR",
+        "investors": [
+          {
+            "name": "Earlybird Venture Capital",
+            "type": "financial_org"
+          }
+        ]
+      },
+      {
+        "month": 10,
+        "year": 2013,
+        "money": 7000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Union Square Ventures",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Trademob",
+    "moneyRaised": "$15M",
+    "category": "mobile",
+    "tags": [
+      "advertising",
+      "mobile",
+      "apps",
+      "berlin",
+      "marketing"
+    ],
+    "fundingRounds": [
+      {
+        "month": 11,
+        "year": 2012,
+        "money": 15000000,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Kennet Partners",
+            "type": "financial_org"
+          },
+          {
+            "name": "Tengelmann Ventures",
+            "type": "financial_org"
+          },
+          {
+            "name": "High-Tech Gruenderfonds",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sociomantic Labs",
+    "moneyRaised": "$0",
+    "category": "ecommerce",
+    "tags": [
+      "performance-display",
+      "online-advertising",
+      "ad-targeting",
+      "online-marketing",
+      "targeting",
+      "social-targeting",
+      "real-time-bidding",
+      "demand-side-platform",
+      "display-advertising",
+      "dsp",
+      "ecommerce",
+      "retargeting",
+      "remarketing",
+      "shopper-remarketing",
+      "audience-extension"
+    ],
+    "fundingRounds": []
+  },
+  {
+    "name": "Clue App",
+    "moneyRaised": "€500k",
+    "category": "health",
+    "tags": [
+      "healthtech",
+      "fertility",
+      "consumer",
+      "healthcare"
+    ],
+    "fundingRounds": [
+      {
+        "month": 7,
+        "year": 2013,
+        "money": null,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "Tigerlabs",
+            "type": "financial_org"
+          },
+          {
+            "name": "Aydogan Ali Schosswald",
+            "type": "person"
+          }
+        ]
+      },
+      {
+        "month": 2,
+        "year": 2014,
+        "money": 500000,
+        "currency": "EUR",
+        "investors": [
+          {
+            "name": "Christophe Maire",
+            "type": "person"
+          },
+          {
+            "name": "Joanne Wilson",
+            "type": "person"
+          },
+          {
+            "name": "Thomas Madsen-Mygdal",
+            "type": "person"
+          },
+          {
+            "name": "Luminary Labs",
+            "type": "company"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "reBuy.de",
+    "moneyRaised": "$0",
+    "category": "ecommerce",
+    "tags": [
+      "online-ankauft",
+      "buchankauf",
+      "iphone-gebraucht"
+    ],
+    "fundingRounds": [
+      {
+        "month": 1,
+        "year": 2014,
+        "money": null,
+        "currency": "USD",
+        "investors": [
+          {
+            "name": "German Startups Group",
+            "type": "financial_org"
+          }
+        ]
+      }
+    ]
+  }
+]

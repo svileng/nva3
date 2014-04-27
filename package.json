@@ -1,0 +1,10 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "crunchbase": "^0.1.2",
+    "async": "^0.7.0",
+    "optimist": "^0.6.1"
+  }
+}
